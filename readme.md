@@ -1,3 +1,13 @@
+# IMPORTANT
+
+Welcome to my CLI adventure game!
+
+This game makes use of inquirer module (https://www.npmjs.com/package/inquirer) to allow user inputs via the CLI.
+
+Try it yourself!
+
+`yarn` -> `node script.js` 
+
 # Choose Your Own Adventure!
 
 Using what you know about data types, variables, operators, conditional blocks, and accepting user input, create a text-based game that allows the user to arrive at different "destinations" based on the inputs they type.
